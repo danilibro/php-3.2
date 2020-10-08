@@ -1,6 +1,6 @@
 <?php
 function tukar_besar_kecil($string){
-//kode di sini
+	strtoupper($string)
 }
 
 // TEST CASES
